@@ -60,10 +60,10 @@ function animate(typewriter) {
             delayAfter: 500
         },
         {
-            text: "MEMANG PANTAS UNTUK KALIAN BANGS",
+            text: "MEMANG PANTAS UNTUK KALIAN BANG",
             delayAfter: 1000
         },{
-            text: "\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\badalah benar-benar kekhilafan saya.\n",
+            text: "\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\badalah benar-benar kekhilafan saya.\n",
             delayAfter: 500
         },
         {
